@@ -1,2 +1,2 @@
 # hurricane
-Quick And Simple Web Server
+Quick And Simple Web Server In Python
